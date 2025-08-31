@@ -4,10 +4,11 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🌱 Currently learning **Machine Learning, NLP & Computer Vision**  
+- 🌱 Currently learning **Machine Learning, NLP & Computer Vision**
+- 💬 Ask me about ML & AI, Dealing with Data.  
 - 💻 Building projects in **Python, Streamlit, OpenCV, Scikit-learn**  
 - 🤝 Looking to collaborate on **AI/ML + Open Source Projects**  
-- 📫 Reach me at **your_email@gmail.com**  
+- 📫 Reach me at **gargiahuja2425@gmail.com**  
 - ⚡ Fun fact: I love blending **creativity with code** 🎨💻  
 
 ---
@@ -35,11 +36,11 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <div align="center">
 
-![Gargi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Gargi's GitHub stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" />  
 
 </div>
 
